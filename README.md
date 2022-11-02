@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi I'm Manutsawin Koolmeng
 
+## 	🖥️ Computer Engineering 59
+
+##  ⚙️ KMITL
+ 
 <!--
 **Manutsawin/Manutsawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
